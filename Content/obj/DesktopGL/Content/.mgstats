@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/BasicNote48.png","/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/bin/DesktopGL/Content/BasicNote48.xnb","TextureProcessor","Texture2DContent",750,4181,0.566952
+"/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/File.spritefont","/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/bin/DesktopGL/Content/BarDscrp.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.171488
+"/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/judge_0.png","/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/bin/DesktopGL/Content/judge_0.xnb","TextureProcessor","Texture2DContent",221,16469,0.13218
+"/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/OffNote48.png","/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/bin/DesktopGL/Content/OffNote48.xnb","TextureProcessor","Texture2DContent",510,4181,0.000982
+"/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/OnNote48.png","/Users/evan/Projects/NoctyurnPatterner/NoctyurnPatterner/Content/bin/DesktopGL/Content/OnNote48.xnb","TextureProcessor","Texture2DContent",636,4181,0.000811
